@@ -1,0 +1,16 @@
+8
+p p p p 
+ p p p p
+p p o p 
+ b o p o
+o o b b 
+ b b o o
+b b b b 
+ b b b b
+2 0 3 1
+5 1 4 0
+0 0 0 0
+
+i+2
+j+2
+j-2

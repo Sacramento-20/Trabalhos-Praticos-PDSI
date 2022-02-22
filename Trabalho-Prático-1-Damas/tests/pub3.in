@@ -1,0 +1,20 @@
+12
+o o o o o o 
+ o p p p o p
+o p o o b o 
+ o p p o p p
+o b b o b o 
+ o p o o o p
+o o o o p o 
+ o p p p b o
+o o o b p p 
+ o p p b o b
+o b o o o b 
+ o b b b b b
+1 7 0 8
+2 2 4 4
+4 4 6 2
+7 3 5 1
+0 10 1 9
+0 8 2 10
+0 0 0 0
